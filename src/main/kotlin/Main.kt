@@ -1,5 +1,5 @@
-package org.example
+import ui.menu
 
-fun main() {
-    println("Augusto")
+fun main(){
+    menu()
 }
